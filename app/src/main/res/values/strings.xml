@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Memory Increaser</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="usage_details">The primary function of this app is to use sdcard for storing installed apps.\nThe app may be used for other purposes too.</string>
+    <string name="how_to_use">For users updating from previous version(Or want to recover older disk image):\n\n 1. Go to Settings.\n 2. Select Recover.\n 3. Enter path where disk image is present and the mount path (default mount path is /data/expandedStorage).\n 4. Click OK.\n 5. Now mount disk image from settings and you are ready to go.\n\n For new users:\n\n 1. Go to Configurations.\n 2. Enter the size of disk image you want and path to directory where virtual disk is to be created.(e.g. /sdcard).\n 3. Now click on CREATE VIRTUAL DISK and wait while the disk is created.\n 4. After Creating disk image go to settings and mount the disk image.\n 5. Now you can move installed apps to virtual disk image.\n\n This app needs auto start permissions in order to work properly make sure it is on, you can find it in yours phone\'s application settings.\n\n This app requires root permissions to work.\n\n For further issues:</string>
+    <string name="contact_us"><a href="mailto:issuesmemoryincreaser@gmail.com">Contact us</a></string>
+
+</resources>

@@ -1,0 +1,41 @@
+{
+  "project_info": {
+    "project_number": "567043660395",
+    "firebase_url": "https://admob-app-id-7161137488.firebaseio.com",
+    "project_id": "admob-app-id-7161137488",
+    "storage_bucket": "admob-app-id-7161137488.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567043660395:android:da9cef451a54439b",
+        "android_client_info": {
+          "package_name": "com.NKRCreations.mi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567043660395-seh4sjnemaovt2gp8483re13th65j1ka.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu4jAmasVB_a2EXTTL_X7vlySY0g925fc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "567043660395-seh4sjnemaovt2gp8483re13th65j1ka.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-1660643511323810~7161137488"
+    }
+  ],
+  "configuration_version": "1"
+}

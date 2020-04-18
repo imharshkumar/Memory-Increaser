@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Size:"
+        android:textSize="14sp"
+        android:layout_margin="8dp"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:hint="in MB(Max. 2048)"
+        android:background="@drawable/edittext_back"
+        android:padding="8dp"
+        android:id="@+id/ed_size"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Path:"
+        android:id="@+id/path"
+        android:textSize="14sp"
+        android:layout_margin="8dp"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="text"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:hint="Default is external storage"
+        android:background="@drawable/edittext_back"
+        android:padding="8dp"
+        android:id="@+id/ed_path"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        android:text="Create Virtual Disk"
+        android:background="@drawable/button_back"
+        android:textColor="#fff"
+        android:id="@+id/createDiskButton"/>
+
+</LinearLayout>
